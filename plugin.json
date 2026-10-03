@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-ux-ui",
+  "version": "0.5.0",
+  "description": "Design and validate evidence-backed user flows, interaction states, interface behavior, accessibility, responsive behavior, and coherent UX/UI guidance without imposing arbitrary visual or technology choices.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-ux-ui-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-ux-ui-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "ux-ui"
+  ]
+}
