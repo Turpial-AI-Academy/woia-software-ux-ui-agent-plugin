@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-ux-ui",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "Design and validate evidence-backed user flows, interaction states, interface behavior, accessibility, responsive behavior, and coherent UX/UI guidance without imposing arbitrary visual or technology choices.",
   "author": {
     "name": "Turpial AI Academy",

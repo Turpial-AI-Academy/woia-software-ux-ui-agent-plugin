@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with software products across platforms and interface technologies; useful evidence may include requirements, existing product behavior, research, analytics, brand/design-system guidance, and repository artifacts.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # ux-ui
