@@ -1,26 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "ux-ui",
-  "skill": "ux-ui",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/ux-ui-agent-plugin",
-    "version": "1.0.1",
-    "commit": "6478e4c672e5dafa2114043103668c7673b5505e"
-  },
-  "migrated_portable_paths": [
-    "skills/ux-ui/SKILL.md",
-    "skills/ux-ui/assets/README.md",
-    "skills/ux-ui/assets/flow-state-catalog.template.md",
-    "skills/ux-ui/assets/ux-ui-document.template.md",
-    "skills/ux-ui/references/ACCESSIBILITY_AND_RESPONSIVE.md",
-    "skills/ux-ui/references/CONTENT_AND_MICROCOPY.md",
-    "skills/ux-ui/references/FLOWS_AND_STATES.md",
-    "skills/ux-ui/references/README.md",
-    "skills/ux-ui/references/UX_UI_STANDARD.md",
-    "skills/ux-ui/references/VALIDATION_CHECKLIST.md",
-    "skills/ux-ui/references/VISUAL_SYSTEM_AND_COMPONENTS.md"
-  ]
+  "skill": "ux-ui"
 }
